@@ -1,0 +1,7 @@
+.appnet .tweet {
+	background:#f2f2f2;
+	background-image: -webkit-linear-gradient(top, #F6F6F6, #EEE);
+}
+.appnet:hover .tweet {
+	background-image: -webkit-linear-gradient(top, #eee, #f6f6f6);
+}
